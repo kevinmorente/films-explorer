@@ -1,6 +1,6 @@
 # Films Explorer
 
-📃 - Aqui temos uma aplição aonde simulamos e usamos uma API para classificar filmes em uma aplicação WEB, segue print abaixo.
+📃 - Aqui temos uma aplição aonde simulamos e usamos uma API para classificar filmes em uma aplicação WEB, eu utilizei ela bastante para estudar componentização, segue print abaixo.
 
 ##
 
